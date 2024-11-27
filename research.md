@@ -123,8 +123,6 @@ To bring these ideas to life, I created mockups and an interactive prototype usi
     <img src="./assets/images/figma-spotify-mockups.webp">
 </p>
 
----
-
 ## Conclusion
 
 These two features address Michelle’s specific frustrations:
