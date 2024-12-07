@@ -133,3 +133,57 @@ These two features address Michelle’s specific frustrations:
 By creating a more personalized and intuitive experience, these solutions not only improve Michelle’s journey but also enhance Spotify’s usability for other family account users.
 
 This project was a valuable opportunity to understand the UX design process and to propose thoughtful, user-centered improvements.
+
+## Usability testing and validation
+
+To validate the proposed solutions (*Kids Mode* and *Liked Button*), I conducted usability testing with five participants, simulating the perspective of potential Spotify users. The goal was to assess how easily users could interact with the prototype and identify any usability issues. Here's a summary of their experiences:
+
+**Participant 1:**
+
+- Task completion: successfully navigated to *Kids Mode* and used the *Liked Button*.
+Feedback: found the *Kids Mode* button placement intuitive and the interface visually engaging. The heart icon for the *Liked Button* was clear but suggested adding a tooltip for first-time users.
+- Observation: slight hesitation when exploring the *Kids Mode* settings but quickly adapted.
+
+**Participant 2:**
+
+- Task completion: successfully completed all tasks but struggled to locate the *Liked Songs* playlist at first.
+- Feedback: appreciated the independence of *Kids Mode* recommendations.
+- Observation: took a few extra seconds to notice the playlist under Library.
+
+**Participant 3:**
+
+- Task completion: partially successful. Located and used *Kids Mode* but misunderstood the function of the *Liked Button*, thinking it saved to a genre-specific folder.
+- Feedback: suggested clearer onboarding for the *Liked Button* functionality and a confirmation message when saving songs.
+- Observation: confusion stemmed from the assumption that the button had advanced sorting capabilities.
+
+**Participant 4:**
+
+- Task completion: successfully used both features without difficulty.
+- Feedback: praised the *Kids Mode* design as intuitive and enjoyable for children. Found the *Liked Button* simple and effective.
+- Observation: quickly grasped the concept and functionality, completing the tasks efficiently.
+
+**Participant 5:**
+
+- Task completion: successfully navigated the prototype but struggled with switching back from *Kids Mode* to the main account.
+- Feedback: suggested adding a more prominent *Switch Back* option and integrating a brief tutorial for new features.
+- Observation: enjoyed the features overall but highlighted the need for clearer visual cues during transitions.
+
+## Conclusion and next steps
+
+**Successes:**
+- Both features were well-received, with most participants finding them intuitive and addressing key user frustrations.
+- *Kids Mode* was especially praised for its independence from family recommendations and its kid-friendly design.
+- The *Liked Button* effectively simplified music saving for most users.
+
+**Improvements:**
+- Add an interactive tutorial for *Kids Mode* to explain its features during first use.
+- Add a *back to normal mode* button.
+- Relocate the *Liked Songs* button to a more visible and accessible spot, like the sidebar or top of the Library section.
+- Test the system and colors in light mode to ensure readability and consistency.
+
+**Next Steps:**
+
+- Implement minor design refinements based on participant feedback.
+- Conduct a second round of testing to validate changes, focusing on users unfamiliar with Spotify.
+
+This validation process provided valuable insights, confirming the viability of the proposed solutions while highlighting areas for improvement.
