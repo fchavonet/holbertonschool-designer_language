@@ -180,6 +180,25 @@ To not start from scratch, you can reuse the [initial Spotify file](https://www.
 
 1. Read the full UX research documentation [here](./research.md).
 
+<table>
+    <tr valign="top">
+        <td align="center">
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="./assets/images/figma-spotify.webp">
+                <source media="(prefers-color-scheme: light)" srcset="./assets/images/figma-spotify.webp">
+                <img width="100%" src="./assets/images/figma-spotify.webp" alt="Figme screenshot">
+            </picture>
+        </td>
+        <td align="center">
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="./assets/images/figma-spotify-mockups.webp">
+                <source media="(prefers-color-scheme: light)" srcset="./assets/images/figma-spotify-mockups.webp">
+                <img width="100%" src="./assets/images/figma-spotify-mockups.webp" alt="Figme screenshot">
+            </picture>
+        </td>
+    </tr>
+</table>
+
 ## <span id="thanks">Thanks</span>
 
 - A big thank you to all my Holberton School peers for their help and support throughout this project.
